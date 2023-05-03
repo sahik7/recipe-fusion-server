@@ -3,7 +3,7 @@
         "id": "Q6eP9sA3cR7h",
         "chefName": "John Smith",
         "chefPicture": "https://i.ibb.co/B2FdWy2/chef-1-removebg-preview.png",
-        "description": "John has been cooking for over 8 years and specializes in creating classic American dishes with a modern twist. He is passionate about using fresh and locally sourced ingredients to create flavorful and healthy meals.",
+        "description": "John has been cooking for over 8 years and specializes in creating classic Italian dishes with a modern twist. He is passionate about using fresh and locally sourced ingredients to create flavorful and healthy meals.",
         "yearsOfExperience": 8,
         "numberOfRecipes": 6,
         "likes": 105,
@@ -53,13 +53,13 @@
         "id": "5GyD4bU7vMzJ",
         "chefName": "David Lee",
         "chefPicture": "https://i.ibb.co/rcqgQy1/chef-2-prev-ui.png",
-        "description": "David has over 12 years of experience in the culinary world, with a focus on creating Asian fusion cuisine. He loves experimenting with flavors and ingredients to create unique and memorable dishes.",
+        "description": "David has over 12 years of experience in the culinary world, with a focus on creating Italian fusion cuisine. He loves experimenting with flavors and ingredients to create unique and memorable dishes.",
         "yearsOfExperience": 12,
         "numberOfRecipes": 9,
         "likes": 87,
         "recipes": [
             {
-                "recipeName": "Korean Fried Chicken",
+                "recipeName": "Italian Fried Chicken",
                 "ingredients": [
                     "chicken wings",
                     "cornstarch",
@@ -102,14 +102,14 @@
     {
         "id": "xT8fKm1N6zL2",
         "chefName": "Linda Chen",
-        "chefPicture": "https://i.ibb.co/YZDnCRd/chef-2-removebg-preview.png",
-        "description": "Linda has over 10 years of experience in both Asian and European cuisine. Her dishes combine traditional flavors with modern techniques, resulting in unique and delicious meals. She is passionate about using seasonal and fresh ingredients to create healthy and vibrant dishes.",
+        "chefPicture": "https://i.ibb.co/dD0dZmV/chef-6-prev-ui.png",
+        "description": "Linda has over 10 years of experience in both Italian and European cuisine. Her dishes combine traditional flavors with modern techniques, resulting in unique and delicious meals. She is passionate about using seasonal and fresh ingredients to create healthy and vibrant dishes.",
         "yearsOfExperience": 10,
         "numberOfRecipes": 7,
         "likes": 92,
         "recipes": [
             {
-                "recipeName": "Pad Thai",
+                "recipeName": "Pad Moaja",
                 "ingredients": [
                     "rice noodles",
                     "shrimp",
@@ -117,7 +117,7 @@
                     "egg",
                     "bean sprouts"
                 ],
-                "cookingMethod": "1. Soak rice noodles in hot water for 10 minutes. \n2. In a pan, cook shrimp and tofu until browned. \n3. Add beaten egg to the pan and scramble with the shrimp and tofu. \n4. Add soaked rice noodles and bean sprouts to the pan and stir. \n5. Add Pad Thai sauce (made from tamarind paste, fish sauce, palm sugar, and vinegar) and stir until everything is coated in the sauce. \n6. Serve hot with chopped peanuts and lime wedges.",
+                "cookingMethod": "1. Soak rice noodles in hot water for 10 minutes. \n2. In a pan, cook shrimp and tofu until browned. \n3. Add beaten egg to the pan and scramble with the shrimp and tofu. \n4. Add soaked rice noodles and bean sprouts to the pan and stir. \n5. Add Pad Moaja sauce (made from tamarind paste, fish sauce, palm sugar, and vinegar) and stir until everything is coated in the sauce. \n6. Serve hot with chopped peanuts and lime wedges.",
                 "rating": 4.5,
                 "isFavorite": true
             },
@@ -152,15 +152,15 @@
     {
         "id": "F2kS9W6nXjA4",
         "chefName": "Kevin Nguyen",
-        "chefPicture": "https://i.ibb.co/B2FdWy2/chef-1-removebg-preview.png",
-        "description": "Kevin has been cooking for 6 years and loves experimenting with Asian flavors and fusion cuisine. He enjoys combining traditional Vietnamese dishes with modern techniques and ingredients.",
+        "chefPicture": "https://i.ibb.co/0Fq15TM/chef-5-removebg-preview.png",
+        "description": "Kevin has been cooking for 6 years and loves experimenting with Italian flavors and fusion cuisine. He enjoys combining traditional Italian dishes with modern techniques and ingredients.",
         "yearsOfExperience": 6,
         "numberOfRecipes": 4,
         "likes": 52,
         "recipes": [
             {
                 "id": 1,
-                "recipeName": "Vietnamese Banh Mi",
+                "recipeName": "Italian Banh Mi",
                 "ingredients": [
                     "baguette",
                     "pork belly",
@@ -174,7 +174,7 @@
             },
             {
                 "id": 2,
-                "recipeName": "Vietnamese Spring Rolls",
+                "recipeName": "Italian Spring Rolls",
                 "ingredients": [
                     "rice paper",
                     "shrimp",
@@ -205,14 +205,14 @@
     {
         "id": "L1pH7cT3dR5g",
         "chefName": "Michael Brown",
-        "chefPicture": "https://i.ibb.co/9hYvL2C/chef-2-removebg-preview.png",
+        "chefPicture": "https://i.ibb.co/K27vRPc/shef-3-removebg-preview.png",
         "description": "Michael has been cooking for over 15 years and specializes in Mediterranean cuisine. He is passionate about using fresh, high-quality ingredients to create delicious and healthy dishes that transport his customers to the sunny shores of the Mediterranean.",
         "yearsOfExperience": 15,
         "numberOfRecipes": 10,
         "likes": 120,
         "recipes": [
             {
-                "recipeName": "Mediterranean Grilled Chicken",
+                "recipeName": "Italian Grilled Chicken",
                 "ingredients": [
                     "chicken breasts",
                     "lemon",
@@ -255,14 +255,14 @@
     {
         "id": "9BzN8V6vMxK1",
         "chefName": "Thomas Wilson",
-        "chefPicture": "https://i.ibb.co/3rYr0FY/chef-5-removebg-preview.png",
-        "description": "Thomas has been cooking for 9 years and loves experimenting with different cuisines and flavors. He is particularly skilled in creating Asian-inspired dishes that are both delicious and visually stunning.",
+        "chefPicture": "https://i.ibb.co/4ZjX0r2/chef-4-removebg-preview.png",
+        "description": "Thomas has been cooking for 9 years and loves experimenting with different cuisines and flavors. He is particularly skilled in creating Italian-inspired dishes that are both delicious and visually stunning.",
         "yearsOfExperience": 9,
         "numberOfRecipes": 5,
         "likes": 67,
         "recipes": [
             {
-                "recipeName": "Korean Fried Chicken",
+                "recipeName": "Italian Fried Chicken",
                 "ingredients": [
                     "chicken wings",
                     "flour",

@@ -1,7 +1,6 @@
 {
   "name": "b7a10-chef-recipe-hunter-server-side-sahik7",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index",
@@ -13,5 +12,14 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-sahik7.git"
+  },
+  "bugs": {
+    "url": "https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-sahik7/issues"
+  },
+  "homepage": "https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-sahik7#readme",
+  "description": ""
 }
