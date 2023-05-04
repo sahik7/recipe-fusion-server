@@ -17,8 +17,8 @@
                     "eggs",
                     "black pepper"
                 ],
-                "cookingMethod": "1. Cook spaghetti according to package instructions. \n2. In a separate pan, fry pancetta until crispy. \n3. Whisk eggs and parmesan together in a bowl. \n4. Drain the spaghetti and add it to the pancetta pan, stirring to coat with the fat. \n5. Remove from heat and quickly add the egg mixture, stirring vigorously to create a creamy sauce. \n6. Add black pepper to taste.",
-                "rating": 4.5,
+                "cookingMethod": " Cook spaghetti according to package instructions. \n In a separate pan, fry pancetta until crispy. \n Whisk eggs and parmesan together in a bowl. \n Drain the spaghetti and add it to the pancetta pan, stirring to coat with the fat. \n Remove from heat and quickly add the egg mixture, stirring vigorously to create a creamy sauce. \n Add black pepper to taste.",
+                "rating": 5,
                 "isFavorite": false
             },
             {
@@ -30,7 +30,7 @@
                     "beef broth",
                     "red wine"
                 ],
-                "cookingMethod": "1. Preheat oven to 350F. \n2. Heat oil in a large oven-safe pot over medium-high heat. \n3. Season the short ribs with salt and pepper and sear until browned on all sides. \n4. Remove short ribs from pot and add chopped onions and carrots. Cook until vegetables are tender. \n5. Add the short ribs back to the pot and pour in the beef broth and red wine. \n6. Cover the pot and transfer it to the oven. Cook until the short ribs are tender and falling off the bone, about 2-3 hours.",
+                "cookingMethod": " Preheat oven to 350F. \n Heat oil in a large oven-safe pot over medium-high heat. \n Season the short ribs with salt and pepper and sear until browned on all sides. \n Remove short ribs from pot and add chopped onions and carrots. Cook until vegetables are tender. \n Add the short ribs back to the pot and pour in the beef broth and red wine. \n Cover the pot and transfer it to the oven. Cook until the short ribs are tender and falling off the bone, about 2-3 hours.",
                 "rating": 5,
                 "isFavorite": true
             },
@@ -43,7 +43,7 @@
                     "butter",
                     "white wine"
                 ],
-                "cookingMethod": "1. Cook spaghetti according to package instructions. \n2. In a separate pan, melt butter and add minced garlic. Cook until fragrant. \n3. Add white wine and lemon juice, and let simmer for a few minutes. \n4. Add shrimp to the pan and cook until pink. \n5. Serve shrimp and sauce over spaghetti.",
+                "cookingMethod": " Cook spaghetti according to package instructions. \n In a separate pan, melt butter and add minced garlic. Cook until fragrant. \n Add white wine and lemon juice, and let simmer for a few minutes. \n Add shrimp to the pan and cook until pink. \n Serve shrimp and sauce over spaghetti.",
                 "rating": 4,
                 "isFavorite": false
             }
@@ -67,8 +67,8 @@
                     "honey",
                     "gochujang"
                 ],
-                "cookingMethod": "1. Toss chicken wings in cornstarch to coat. \n2. Deep fry wings until crispy and golden brown. \n3. In a separate pan, mix together soy sauce, honey, and gochujang to create a sauce. \n4. Toss wings in sauce until fully coated.",
-                "rating": 4.7,
+                "cookingMethod": " Toss chicken wings in cornstarch to coat. \n Deep fry wings until crispy and golden brown. \n In a separate pan, mix together soy sauce, honey, and gochujang to create a sauce. \n Toss wings in sauce until fully coated.",
+                "rating": 7,
                 "isFavorite": true
             },
             {
@@ -80,8 +80,8 @@
                     "ginger",
                     "soy sauce"
                 ],
-                "cookingMethod": "1. Slice beef into thin strips and season with salt and pepper. \n2. In a wok or large pan, heat oil over high heat. \n3. Add minced garlic and ginger and stir fry for 1 minute. \n4. Add beef and cook until browned on all sides. \n5. Add broccoli and soy sauce and cook until broccoli is tender-crisp. \n6. Serve hot over rice.",
-                "rating": 4.5,
+                "cookingMethod": " Slice beef into thin strips and season with salt and pepper. \n In a wok or large pan, heat oil over high heat. \n Add minced garlic and ginger and stir fry for 1 minute. \n Add beef and cook until browned on all sides. \n Add broccoli and soy sauce and cook until broccoli is tender-crisp. \n Serve hot over rice.",
+                "rating": 5,
                 "isFavorite": false
             },
             {
@@ -93,8 +93,8 @@
                     "brown sugar",
                     "rice vinegar"
                 ],
-                "cookingMethod": "1. Preheat oven to 400F. \n2. Mix together miso paste, soy sauce, brown sugar, and rice vinegar in a bowl. \n3. Place salmon fillet on a baking sheet lined with parchment paper. \n4. Brush miso glaze onto the salmon, covering it completely. \n5. Bake in the oven for 12-15 minutes, until salmon is cooked through.",
-                "rating": 4.3,
+                "cookingMethod": " Preheat oven to 400F. \n Mix together miso paste, soy sauce, brown sugar, and rice vinegar in a bowl. \n Place salmon fillet on a baking sheet lined with parchment paper. \n Brush miso glaze onto the salmon, covering it completely. \n Bake in the oven for 12-15 minutes, until salmon is cooked through.",
+                "rating": 3,
                 "isFavorite": false
             }
         ]
@@ -117,8 +117,8 @@
                     "egg",
                     "bean sprouts"
                 ],
-                "cookingMethod": "1. Soak rice noodles in hot water for 10 minutes. \n2. In a pan, cook shrimp and tofu until browned. \n3. Add beaten egg to the pan and scramble with the shrimp and tofu. \n4. Add soaked rice noodles and bean sprouts to the pan and stir. \n5. Add Pad Moaja sauce (made from tamarind paste, fish sauce, palm sugar, and vinegar) and stir until everything is coated in the sauce. \n6. Serve hot with chopped peanuts and lime wedges.",
-                "rating": 4.5,
+                "cookingMethod": " Soak rice noodles in hot water for 10 minutes. \n In a pan, cook shrimp and tofu until browned. \n Add beaten egg to the pan and scramble with the shrimp and tofu. \n Add soaked rice noodles and bean sprouts to the pan and stir. \n Add Pad Moaja sauce (made from tamarind paste, fish sauce, palm sugar, and vinegar) and stir until everything is coated in the sauce. \n Serve hot with chopped peanuts and lime wedges.",
+                "rating": 5,
                 "isFavorite": true
             },
             {
@@ -130,7 +130,7 @@
                     "soy sauce",
                     "cornstarch"
                 ],
-                "cookingMethod": "1. Marinate beef with soy sauce, cornstarch, and garlic for 30 minutes. \n2. Cut broccoli into small florets and blanch in boiling water for 1 minute. \n3. In a pan, cook the marinated beef until browned. \n4. Add broccoli to the pan and stir until heated through. \n5. Add more soy sauce if needed. \n6. Serve hot with rice.",
+                "cookingMethod": " Marinate beef with soy sauce, cornstarch, and garlic for 30 minutes. \n Cut broccoli into small florets and blanch in boiling water for 1 minute. \n In a pan, cook the marinated beef until browned. \n Add broccoli to the pan and stir until heated through. \n Add more soy sauce if needed. \n Serve hot with rice.",
                 "rating": 4,
                 "isFavorite": false
             },
@@ -143,8 +143,8 @@
                     "sake",
                     "brown sugar"
                 ],
-                "cookingMethod": "1. In a bowl, mix soy sauce, mirin, sake, and brown sugar. \n2. Marinate the salmon fillet in the mixture for 30 minutes. \n3. Preheat the oven to 400F. \n4. Bake the salmon for 15-20 minutes, basting with the marinade every 5 minutes. \n5. Serve hot with steamed rice and sautéed vegetables.",
-                "rating": 4.5,
+                "cookingMethod": " In a bowl, mix soy sauce, mirin, sake, and brown sugar. \n Marinate the salmon fillet in the mixture for 30 minutes. \n Preheat the oven to 400F. \n Bake the salmon for 15-20 minutes, basting with the marinade every 5 minutes. \n Serve hot with steamed rice and sautéed vegetables.",
+                "rating": 5,
                 "isFavorite": true
             }
         ]
@@ -168,7 +168,7 @@
                     "carrots",
                     "cilantro"
                 ],
-                "cookingMethod": "1. Slice baguette in half lengthwise and toast in the oven. \n2. Marinate pork belly in soy sauce, honey, and garlic, then sear until crispy. \n3. Slice daikon and carrots thinly and pickle in vinegar and sugar. \n4. Assemble sandwich by layering pork belly, pickled veggies, and cilantro on the toasted baguette.",
+                "cookingMethod": " Slice baguette in half lengthwise and toast in the oven. \n Marinate pork belly in soy sauce, honey, and garlic, then sear until crispy. \n Slice daikon and carrots thinly and pickle in vinegar and sugar. \n Assemble sandwich by layering pork belly, pickled veggies, and cilantro on the toasted baguette.",
                 "rating": 4,
                 "isFavorite": false
             },
@@ -182,8 +182,8 @@
                     "carrots",
                     "lettuce"
                 ],
-                "cookingMethod": "1. Soak rice paper in warm water until soft. \n2. Cook vermicelli noodles and shrimp. \n3. Assemble rolls by layering noodles, shrimp, carrots, and lettuce on the rice paper. \n4. Roll tightly and serve with dipping sauce.",
-                "rating": 4.5,
+                "cookingMethod": " Soak rice paper in warm water until soft. \n Cook vermicelli noodles and shrimp. \n Assemble rolls by layering noodles, shrimp, carrots, and lettuce on the rice paper. \n Roll tightly and serve with dipping sauce.",
+                "rating": 5,
                 "isFavorite": false
             },
             {
@@ -196,7 +196,7 @@
                     "onion",
                     "cilantro"
                 ],
-                "cookingMethod": "1. Roast ginger and onion in the oven until charred. \n2. Boil chicken in water with roasted ginger and onion. \n3. Cook rice noodles according to package instructions. \n4. Assemble soup by layering noodles, chicken, and cilantro in a bowl. \n5. Pour hot broth over the ingredients and serve with lime wedges and bean sprouts.",
+                "cookingMethod": " Roast ginger and onion in the oven until charred. \n Boil chicken in water with roasted ginger and onion. \n Cook rice noodles according to package instructions. \n Assemble soup by layering noodles, chicken, and cilantro in a bowl. \n Pour hot broth over the ingredients and serve with lime wedges and bean sprouts.",
                 "rating": 5,
                 "isFavorite": true
             }
@@ -220,7 +220,7 @@
                     "olive oil",
                     "oregano"
                 ],
-                "cookingMethod": "1. Combine lemon juice, minced garlic, olive oil, and oregano in a bowl to make the marinade. \n2. Add the chicken breasts to the marinade, coating each piece evenly. \n3. Cover and refrigerate for at least 30 minutes, or up to 8 hours. \n4. Preheat grill to medium-high heat. \n5. Remove chicken from marinade and discard excess. \n6. Grill chicken for 5-7 minutes per side, or until cooked through.",
+                "cookingMethod": " Combine lemon juice, minced garlic, olive oil, and oregano in a bowl to make the marinade. \n Add the chicken breasts to the marinade, coating each piece evenly. \n Cover and refrigerate for at least 30 minutes, or up to 8 hours. \n Preheat grill to medium-high heat. \n Remove chicken from marinade and discard excess. \n Grill chicken for 5-7 minutes per side, or until cooked through.",
                 "rating": 4,
                 "isFavorite": false
             },
@@ -233,8 +233,8 @@
                     "bread crumbs",
                     "marinara sauce"
                 ],
-                "cookingMethod": "1. Preheat oven to 400F. \n2. Slice eggplant into 1/2-inch rounds. \n3. Dredge eggplant slices in flour, dip in beaten eggs, and coat with bread crumbs. \n4. Place eggplant slices on a baking sheet lined with parchment paper. \n5. Bake for 15-20 minutes, or until eggplant is golden brown and crispy. \n6. Spread marinara sauce on each slice of eggplant, and top with shredded mozzarella cheese. \n7. Return eggplant to the oven and bake for an additional 10-15 minutes, or until cheese is melted and bubbly.",
-                "rating": 4.5,
+                "cookingMethod": " Preheat oven to 400F. \n Slice eggplant into 1/2-inch rounds. \n Dredge eggplant slices in flour, dip in beaten eggs, and coat with bread crumbs. \n Place eggplant slices on a baking sheet lined with parchment paper. \n Bake for 15-20 minutes, or until eggplant is golden brown and crispy. \n Spread marinara sauce on each slice of eggplant, and top with shredded mozzarella cheese. \n Return eggplant to the oven and bake for an additional 10-15 minutes, or until cheese is melted and bubbly.",
+                "rating": 5,
                 "isFavorite": true
             },
             {
@@ -243,10 +243,9 @@
                     "potatoes",
                     "lemon",
                     "olive oil",
-                    "garlic",
-                    "rosemary"
+                    "garlic"
                 ],
-                "cookingMethod": "1. Preheat oven to 400F. \n2. Cut potatoes into small pieces and place in a large bowl. \n3. Add olive oil, minced garlic, chopped rosemary, and lemon juice and zest to the bowl. \n4. Toss potatoes until evenly coated with the seasoning. \n5. Spread potatoes in a single layer on a baking sheet lined with parchment paper. \n6. Roast potatoes in the oven for 20-25 minutes, or until tender and crispy.",
+                "cookingMethod": " Preheat oven to 400F. \n Cut potatoes into small pieces and place in a large bowl. \n Add olive oil, minced garlic, chopped rosemary, and lemon juice and zest to the bowl. \n Toss potatoes until evenly coated with the seasoning. \n Spread potatoes in a single layer on a baking sheet lined with parchment paper. \n Roast potatoes in the oven for 20-25 minutes, or until tender and crispy.",
                 "rating": 5,
                 "isFavorite": true
             }
@@ -270,8 +269,8 @@
                     "soy sauce",
                     "gochujang"
                 ],
-                "cookingMethod": "1. Preheat the oven to 375F. \n2. In a bowl, mix flour, cornstarch, and salt. \n3. Coat chicken wings in the flour mixture and bake for 25-30 minutes. \n4. In a separate bowl, mix soy sauce, gochujang, honey, and garlic. \n5. Toss the baked chicken wings in the sauce until fully coated.",
-                "rating": 4.5,
+                "cookingMethod": " Preheat the oven to 375F. \n In a bowl, mix flour, cornstarch, and salt. \n Coat chicken wings in the flour mixture and bake for 25-30 minutes. \n In a separate bowl, mix soy sauce, gochujang, honey, and garlic. \n Toss the baked chicken wings in the sauce until fully coated.",
+                "rating": 5,
                 "isFavorite": false
             },
             {
@@ -283,7 +282,7 @@
                     "soy sauce",
                     "gochujang"
                 ],
-                "cookingMethod": "1. In a wok or large pan, heat oil over high heat. \n2. Add cubed tofu and stir-fry until lightly browned. \n3. Add chopped vegetables and minced garlic. Stir-fry until vegetables are tender. \n4. Add soy sauce, gochujang, and sugar. Stir-fry for another minute or two. \n5. Serve hot with rice.",
+                "cookingMethod": " In a wok or large pan, heat oil over high heat. \n Add cubed tofu and stir-fry until lightly browned. \n Add chopped vegetables and minced garlic. Stir-fry until vegetables are tender. \n Add soy sauce, gochujang, and sugar. Stir-fry for another minute or two. \n Serve hot with rice.",
                 "rating": 4,
                 "isFavorite": true
             },
@@ -296,8 +295,8 @@
                     "crab meat",
                     "cucumber"
                 ],
-                "cookingMethod": "1. Rinse the sushi rice and cook according to package instructions. \n2. Lay out a sheet of nori on a sushi mat. \n3. Spread a layer of cooked rice on the nori. \n4. Add sliced avocado, crab meat, and cucumber to the center of the rice. \n5. Roll the sushi tightly using the mat, and slice into pieces.",
-                "rating": 4.5,
+                "cookingMethod": " Rinse the sushi rice and cook according to package instructions. \n Lay out a sheet of nori on a sushi mat. \n Spread a layer of cooked rice on the nori. \n Add sliced avocado, crab meat, and cucumber to the center of the rice. \n Roll the sushi tightly using the mat, and slice into pieces.",
+                "rating": 5,
                 "isFavorite": false
             }
         ]
